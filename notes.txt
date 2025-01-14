@@ -1,2 +1,3 @@
 We plotted temperature and cell abundance.
 Each point represents a sample.
+Environmental groups are shown by color.
